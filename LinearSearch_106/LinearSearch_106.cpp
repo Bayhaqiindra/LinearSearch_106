@@ -62,3 +62,10 @@ void LinerSearch()
 		cin >> ch;
 	} while ((ch == 'y') || (ch == 'y'));
 }
+
+
+int main()
+{
+	input();
+	LinerSearch();
+}
