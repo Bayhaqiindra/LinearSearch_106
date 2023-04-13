@@ -32,3 +32,7 @@ void input()
 
 
 void LinerSearch()
+{
+	char ch;
+	int ctr;	//Number of comparisons
+}
